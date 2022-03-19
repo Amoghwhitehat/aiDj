@@ -1,0 +1,28 @@
+.heading{
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 0px;
+    width: 100%;
+}
+.note{
+    color: gold;
+}
+img{
+    width: 120px;
+    height: 120px;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
+#result_speed{
+    float: left;
+}
+#result_volume{
+    float: right;
+}
+canvas{
+    border: 5px double greenyellow;
+    border-radius: 30px;
+    margin-top: 50px;
+}
